@@ -1,5 +1,5 @@
 @extends('frontend.layouts.app')
-
+Привет.
 @section('content')
     <div class="row">
 
